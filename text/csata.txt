@@ -1,0 +1,185 @@
+___KORSZAM___
+{kor}
+$0. kör
+___MANNAMENNYISEG___
+{manna}
+$0 mannád van.
+___CSATAPARANCSLISTA___
+
+Elérhető parancsok listája:
+p   - kiírja ezt a listát
+hos tamad   - kilistázza a célpontokat, amiket a hősöd meg tud támadni
+hos tamad [mezoNev]   - megtámadod a hősöddel az adott mezőn álló egységet (csak ellenfelet lehet)
+hos varazsol   - kilistázza a varázslataidat, amiket használhatsz, és a célpontjaik típusát
+hos varazsol [varazslatNev] [mezoNev]   - a hősöd használja az adott varázslatot az adott célponton (ha van)
+hos varazsol [varazslatNev] ok   - a hősöd használja az adott varázslatot (ha a varázslatnak nincs célpontja)
+egyseg tamad   - kilistázza a célpontokat, amiket az aktuálisan soron lévő egységed meg tud támadni
+egyseg tamad [mezoNev]   - megtámadod az egységeddel az adott célpontot
+egyseg mozog   - kilistázza a mezőket, ahova az aktuálisan soron lévő egységed el tud mozogni
+egyseg mozog [mezoNev]   - az egységeddel a kijelölt mezőre mozogsz
+egyseg passz   - nem csinálsz semmit az aktuálisan soron lévő egységeddel
+
+Speciális parancsok:
+passz   - ugyanaz, mint az "egység passz" parancs
+ujra   - olyan, mint ha az előzőleg beírt parancsot írnád be újból
+ujra [cselekvo]   - olyan, mint ha az előzőleg beírt parancsot írnád be újból, csak az első paraméterét kicseréli [cselekvo]-re (pl. ha az előző parancsod a "hos tamad e4" volt, akkor az "ujra egyseg" parancs olyan, mint ha azt írnád be, hogy "egyseg tamad e4")
+[mezoNev]   - olyan, mint ha az előzőleg beírt parancsot írnád be, csak utánaírnád a [mezoNev] mezőt
+___KORINFO___
+
+FONTOS! A hősöddel csak akkor tudsz cselekedni (támadni vagy varázsolni), ha az adott körben ezt még nem tetted meg! Amennyiben az egységeddel cselekszel, úgy azonnal a következő soron lévő egység fog jönni.
+___HOSCSELEKEDETT___
+
+Egy körben csak egyszer cselekedhetsz a hősöddel!
+___NINCSVARAZSLAT___
+
+Nincs használható varázslatod.
+___CELPONTNELKULIVARAZSLAT___
+
+Ennek a varázslatnak nincs célpontja. Célpont helyett az "ok" paramétert írd a varázslat neve után!
+___ROSSZCELPONTSZOVETSEGES___
+
+Rossz célpont! Ezzel a varázslattal csak szövetséges egységeket célozhatsz meg!
+___ROSSZCELPONTURESMEZO___
+
+Rossz célpont! Ezzel a varázslattal csak üres mezőket célozhatsz meg!
+___ROSSZCELPONTELLENSEG___
+
+Rossz célpont! Ezzel a varázslattal csak ellenséges egységeket célozhatsz meg!
+___NINCSHELY___
+
+Nincs elég hely a varázslat hatásának érvényesüléséhez!
+___NINCSILYENVARAZSLAT2___
+
+Nincs ilyen varázslatod! A használható varázslataidat a "hős varázsol" paranccsal kérheted le.
+___NINCSMEZO___
+
+Nincs ilyen mező!
+___NEMLEPHET___
+
+Erre a mezőre nem tudsz lépni ezzel az egységgel!
+___URESMEZO___
+
+Ezen a mezőn nem áll egység!
+___NINCSELEGMANNA___
+
+Nincs elég mannád ehhez a varázslathoz! A használható varázslataidat a "hős varázsol" paranccsal kérheted le.
+___NINCSMOZGAS___
+
+Egyetlen mezőre sem tudsz lépni ezzel az egységgel!
+___VANMOZGAS___
+{egysegNev} {mezoDarabszam}
+$0 egység $1 mezőre léphet.
+___NEMTAMADHATO___
+
+Ez a mező nem célpont az egységed támadása számára!
+___NEMHOSTAMADHATO___
+
+Ez a mező nem célpont a hősöd támadása számára!
+___NINCSCELPONT___
+
+Ennek az egységnek jelenleg nincsen támadható célpontja!
+___UTOLSOAKORBEN___
+
+Ebben a körben még nem cselekedtél a hősöddel, és ez az utolsó lehetőséged rá!
+___ELLENFELPASSZ___
+{egysegNev}
+Az ellenfél passzolt $0 egységgel.
+___HOSTAMADAS___
+{celpontNev} {sebzes}
+Hőstámadás $0 ellen: $1 sebzés.
+___MOZGOTT___
+{egysegNev} {ujPozicio}
+$0 egység $1 mezőre lépett.
+___EGYSEGSEBZES___
+{ki} {kit} {sebzes} {kritikusSzoveg}
+$0 megsebezte $1-t $2 életerőnyi sebzéssel $3
+___KRITIKUSCSAPAS___
+
+(kritikus sebzés!)
+___MERGEZOCSAPAS___
+{ki}
+$0-t megmérgezte a csapás. Következő támadásával kevesebbet fog sebezni.
+___TUZESCSAPAS___
+{ki}
+$0-t felgyújtotta a csapás. A következő kör végén sebződni fog.
+___VISSZATAMADAS___
+{ki} {kit} {sebzes} {kritikusSzoveg}
+$0 viszonozta $1 támadását $2 sebzéssel $3
+___EGES___
+{nev} {sebzes}
+$0 egység $1 életerő tűz általi sebzést szenvedett el.
+___MEGHALT___
+{nev}
+$0 egység elpusztult.
+___MANNA___
+{mennyiseg}
+-$0 manna
+___ALDOZAS___
+{nev}
+Egy $0 katona feláldozva:
+___VERSEBZES___
+{kinek} {mennyit}
+$1 vérsebzés kiosztva $0 egységnek.
+___BARDDAL___
+
+Bárdok dala hangzik a csatatéren...
+___BOZOT___
+{mezo}
+Tövisek nőnek ki a földből, egy sűrű bozótot növesztve a $0 mezőre...
+___TUDOSEROSITES___
+{kit} {regiSebzes} {ujSebzes}
+$0 egység új sebzése a Démon Szeme kísérleteinek köszönhetően: $1 helyett $2.
+___EGIUVOLTES___
+
+Norticon ősi üvöltése hangzik a csatatér felett...
+___SARKANYLELKESITES___
+{nev}
+$0 egység megint képes visszatámadni ebben a körben.
+___SARKANYFELEMLITES___
+{nev}
+$0 egység nem támadhat vissza ebben a körben.
+___ELETKERTJE___
+
+Virágok nyílnak a holttesteken, az Édenkert megelevenedik...
+___ELETKERTJEGYOGYITAS___
+{kit} {mennyit}
+$0 $1 életerőt gyógyult a kert áldásától.
+___FAORIASGYOGYITAS___
+{nev} {gyogyulas}
+$0 $1 életerőt gyógyult faóriások jóvoltából.
+___FEKETETUZ___
+{nev} {halottak}
+Fekete lángok lepik el $0 egységet $1 katonával végezve...
+___FELTAMASZTVA___
+{nev} {gyogyitas} {feltamasztva}
+$0 $1 életerőt gyógyult démoni mágiával ($2 katona feltámasztva).
+___GYEMANTBOR___
+{tamadoNev}
+A gyémántóriás bőréről teljesen lepattant $0 kritikus támadása.
+___PANCELOZOTTPIKKELYEK___
+{vedelem}
+A páncélozott sárkányok páncélja $0 sebzéssel csökkentette az őket ért károkat.
+___SARKANYTUZ___
+{nev} {sebzes}
+$0 egység $1 életerőt sebződött és kigyulladt a sárkányok pusztító tüzében.
+___ELLOKES___
+{nev} {regiPoz} {ujPoz}
+$0-t széllökés hátravetette $1 mezőről $2 mezőre.
+___TELEPORT___
+{nev} {regiPoz} {ujPoz}
+$0 elteleportált $1 mezőről $2 mezőre.
+___TUZLABDA___
+{nev} {sebzes}
+A tűzlabda becsapódásakor $0 $1 életerőt sebződött és felgyulladt.
+___TUZORIASAURA___
+{nev} {sebzes}
+$0 $1 életerőt sebződött tűzóriások közelében.
+___VERHOLD___
+
+A manna felforr, a Hold vérvörösbe borul...
+___VERHOLDERO___
+{nev} {regiSebzes} {ujSebzes}
+$0 egységet átjárja a démonok ősi ereje. (Sebzésnövekedés: $1 -> $2)
+___VILLAM___
+{nev} {sebzes}
+$0 $1 életerőt sebződött a belé csapó villámtól.

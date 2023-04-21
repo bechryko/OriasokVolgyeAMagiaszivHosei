@@ -1,0 +1,16 @@
+
+demon
+2
+vasarol egyseg vermagus 37
+vasarol egyseg oriasdemon 14
+vasarol egyseg demon_szeme_tudos 7
+vasarol varazslat feltamasztas ok
+vasarol varazslat aldozat ok
+vasarol tulajdonsag varazsero 3
+vasarol tulajdonsag szerencse 4
+vasarol tulajdonsag tudas 4
+vasarlas vege
+vermagus a9
+oriasdemon b5
+demon_szeme_tudos a8
+ok

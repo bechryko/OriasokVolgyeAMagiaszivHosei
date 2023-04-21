@@ -1,0 +1,232 @@
+___FOLDMUVESNEV___
+
+Földműves
+___FOLDMUVESLEIRAS___
+
+A földművesek az emberek alapkatonái. Kiegyenesített kaszákkal vonulnak a harcba, és bár erejük csekély, elhivatottságuk figyelemre méltó.
+___IJASZNEV___
+
+Íjász
+___IJASZLEIRAS___
+{hatotav}
+Az íjászegység az emberek fő harci ereje. Képesek akár $0 egység távolságból is lenyilazni az ellenfelet úgy, hogy annak esélye sincs a visszatámadásra - de ha bekerítik az íjászegységet, akkor képtelenné válik a támadásra.
+___GRIFFNEV___
+
+Grifflovag
+___GRIFFLEIRAS___
+
+A grifflovagok az emberek frontharcosai. Hatalmas előrelépés volt az emberi hadászatban, amikor felfedezték, hogy a griffek mennyivel hasznosabb állatok egy harcban, mint a lovak: villámgyorsan közlekednek a csatatér kritikus területei között, és egy körben akárhányszor képesek visszatámadni.
+___BARDNEV___
+
+Bárd
+___BARDLEIRAS___
+{kritikusSebzes}
+A bárdok az emberek támogató egységei. Zenéjükkel elveszett mágiát képesek felszabadítani, mellyel felerősítik a környező szövetségesek kritikus csapásainak erejét 2-szeresről $0-szeresre.
+___AGYAGORIASNEV___
+
+Agyagóriás
+___AGYAGORIASLEIRAS___
+
+Az agyagóriások az óriások alapegységei. Amikor a folyó fenekén alvó óriások felkelnek, és kiemelkednek a vízből, az egyszerre fenséges és hátborzongató látvány - egyszer mindenképpen érdemes megnézni!
+___TUZORIASNEV___
+
+Tűzóriás
+___TUZORIASLEIRAS___
+{sebzes}
+A tűzóriások az óriások legfenyegetőbb egységei. Testük tűzben kovácsolt mágiából épül fel, és olyan hőt árasztanak magukból, ami bármilyen élőt képes ropogósra sütni (a kör végén katonánként $0 sebzés formájában), ha elég ideig áll a közelében. De vigyázat! Ez igaz a többi óriásra is!
+___GYEMANTORIASNEV___
+
+Gyémántóriás
+___GYEMANTORIASLEIRAS___
+
+A gyémántóriások a legjobb frontharcosok, amiket csak ember (vagy óriás) kívánhat. Hogy miért? Próbáltál már kritikus csapással támadni egy gyémántóriásra? Olyan kemény a bőre, hogy egyszerűen lepattan róla.
+___FAORIASNEV___
+
+Faóriás
+___FAORIASLEIRAS___
+{gyogyitas}
+A faóriások a természet őrzőinek támogatói. Kedves természetükből adódóan folyamatosan gyógyítják a körülöttük állókat (a kör végén katonánként $0 életerővel). De vigyázz! Ez igaz az ellenség katonáira is!
+___ELOHALOTTNEV___
+
+Élőhalott ember
+___ELOHALOTTLEIRAS___
+
+Az élőhalott emberek, bár meglepő lehet, de a démonok alapegységei. Ezek amolyan agyatlan zombik, amik egyetlen dologra jók: hogy kövessék mesterük, ez esetben a te utasításaidat.
+___VERMAGUSNEV___
+
+Vérmágus
+___VERMAGUSLEIRAS___
+
+A vérmágusok a démonok fő harci ereje. Képesek kivetíteni a testüket távoli helyekre, ezáltal bárkit meg tudnak támadni a csatatéren, habár azok vissza is támadnak a kivetülésükre!
+___ORIASDEMONNEV___
+
+Óriásdémon
+___ORIASDEMONLEIRAS___
+
+Óriásdémonok. Egy óriás és egy démon közös gyermekeként születnek ezek a félelmetes teremtmények, és nem véletlenül ők a démonok frontharcosai. A körülöttük álló ellenséges egységek csak őket képesek támadni.
+___DEMONTUDOSNEV___
+
+Démon Szeme tudós
+___DEMONTUDOSLEIRAS___
+{erosites}
+A Démon Szeme a démonok kutatócsoportjának neve, ami holtak újjáélesztésétől kezdve emberek génmódosításáig mindenfélével kísérletezik. Az ottani tudósok, a démonok támogató egységei képesek a szövetségeseiket megtámadni, de nem pengékkel, hanem egy szérummal, ami bár akkora fájdalmat okoz, mint egy penge, felerősíti a megtámadott szövetséges sebzését $0%-kal.
+___TORPESARKANYNEV___
+
+Törpesárkány
+___TORPESARKANYLEIRAS___
+
+A törpesárkányok, nevükkel ellentétben, nem sárkányok. Azonban kedvelik a sárkányokat, így az ő alapegységeik. Nem túl erősek, de ha elég sokan vannak, képesek felérni akár Norticonhoz, a Sárkányok Istenéhez is! (Habár ahhoz NAGYON sokan kell, hogy legyenek...)
+___VOROSSARKANYNEV___
+
+Vörös sárkány
+___VOROSSARKANYLEIRAS___
+
+A vörös sárkányok neve nem csak pikkelyeik színére utal, hanem a lángjukéra is. Olyan erős tüzet képesek lehelni, mely felgyújtja a támadott egységeket, és azok minden katona után sebződnek a kör végén.
+___PANCELOZOTTSARKANYNEV___
+
+Páncélozott sárkány
+___PANCELOZOTTSARKANYLEIRAS___
+{vedelem}
+A páncélozott sárkányok igazi frontharcosok. Testüket páncél fedi, ami azonban nem veszik kárba, amikor az egyikük meghal: a páncéljának a darabjait a többi sárkány a sajátjára erősíti, hogy ezáltal $0-vel kevesebb sebzést szenvedjenek el. (Halott társanként, minden kapott sebzéssel szemben.)
+___MERGEZOSARKANYNEV___
+
+Mérgező sárkány
+___MERGEZOSARKANYLEIRAS___
+
+A mérgező sárkányok a sárkányok támogató egységei. Támadáskor lángjukba keveregő savas mérgük részlegesen megbénítja áldozataik izmait, így azok a következő támadásukkor fele annyit fognak sebezni.
+___EGYSEGLEIRAS___
+{nev} {letszam} {maxLetszam} {minSebzes} {maxSebzes} {eletero} {maxEletero} {sebesseg} {kezdemenyezes} {visszatamadas}
+$0 egység ($1/$2 élő katona): $3-$4 sebzés, $5/$6 életerő, $7 sebesség, $8 kezdeményezés, $9
+___VANVISSZATAMADAS___
+
+készen áll visszatámadásra
+___NINCSVISSZATAMADAS___
+
+ebben a körben már nem támadhat vissza
+___MERGEZETT___
+
+(az egységet megmérgezték)
+___EGO___
+
+(az egységet felgyújtották)
+___EGYSEGBOLTLEIRAS___
+{nev} {ar} {minSebzes} {maxSebzes} {eletero} {sebesseg} {kezdemenyezes}
+$0 ($1 arany darabja): $2-$3 sebzés, $4 életerő, $5 sebesség, $6 kezdeményezés
+___TAMADASNEV___
+
+Támadás
+___TAMADASLEIRAS___
+
+Szintenként 10%-kal növeli meg az egységek sebzését.
+___VEDEKEZESNEV___
+
+Védekezés
+___VEDEKEZESLEIRAS___
+
+Szintenként 5%-kal csökkenti az egységeket ért sebzést.
+___VARAZSERONEV___
+
+Varázserő
+___VARAZSEROLEIRAS___
+
+A varázslatok erejét növeli.
+___TUDASNEV___
+
+Tudás
+___TUDASLEIRAS___
+
+Szintenként 10-zel növeli a hős maximális mannapontjait.
+___MORALNEV___
+
+Morál
+___MORALLEIRAS___
+
+Szintenként 1-gyel növeli az egységek kezdeményezését.
+___SZERENCSENEV___
+
+Szerencse
+___SZERENCSELEIRAS___
+
+Szintenként 5%-kal növeli az egységek kritikus csapásainak az esélyét.
+___VILLAMCSAPASNEV___
+
+Villámcsapás
+___VILLAMCSAPASLEIRAS___
+{sebzes}
+Eredetileg az óriások természetmágiája volt, de az emberek is megtanulták széleskörű használata miatt: tüzek gyújtása, viharok idézése, a varázserő $0-szorosának sebzése egy ellenséges egységbe...
+___FEKETETUZNEV___
+
+Fekete tűz
+___FEKETETUZLEIRAS___
+
+A feketemágia az emberek természetes mágiatípusa. Segítségével olyan pusztításra lehetnek képesek, mint amire egy másik faj sem. A fekete tűz is egy ilyen varázslat: egy szempillantás alatt végez a kiválasztott ellenséges egység katonáinak harmadával! (Lefelé kerekítve.)
+___TELEPORTNEV___
+
+Teleportáció
+___TELEPORTLEIRAS___
+
+Egy nagyon hasznos varázslat mozgósításhoz. Annyi mezővel teleportálja a kiválasztott szövetséges egységet az ellenfél irányába, amennyi a hős varázsereje. (Ha az a mező foglalt, akkor eggyel visszább, stb.)
+___TUZLABDANEV___
+
+Tűzlabda
+___TUZLABDALEIRAS___
+{sebzes}
+Az óriások eme pusztító erejű természetmágiája nem csak egy, hanem egy 3x3-as területen minden egységet képes megsebezni a hős varázserejének $0-szorosával, egyúttal fel is gyújtva őket! De vigyázz! Ez a többi óriásra is vonatkozik!
+___BOZOTNEV___
+
+Bozót
+___BOZOTLEIRAS___
+
+Nem hangzik félelmetes képességnek, pedig nagyon is az! Áthatolhatatlanul leblokkol egy mezőt, amin utána semmilyen egység sem tud átmenni!
+(A bozóttal el is lehet zárni egységeket, hogy azok elérhetetlenek legyenek a másik félnek. Ekkor beköszönt a béke korszaka, a harcok abbamaradnak, habár a csatának sosem lesz vége - és neked győznöd kell!)
+___KERTNEV___
+
+Az Élet Kertje
+___KERTLEIRAS___
+
+Az Élet Kertje egy isteni varázslat, amit maga az Óriások Istene, Alteon tanított meg egykor az óriásoknak. A varázslat használatakor növények fonják be az egész csatateret, és meggyógyítanak minden sérült óriást.
+___FELTAMASZTASNEV___
+
+Feltámasztás
+___FELTAMASZTASLEIRAS___
+{gyogyitas}
+A démonok vérmágiái közül talán a legerősebb a feltámasztás. Ezt a varázslatot használva a kiválasztott egység meggyógyul ($0 életerőt a hős minden varázserőpontja után), és ha az adott egységben haltak meg katonák a csata kezdete óta, akkor azok felélednek, és folytatják a harcot.
+___ALDOZATNEV___
+
+Áldozat
+___ALDOZATLEIRAS___
+
+Feláldozol egyetlen katonát egy egységedből, és annak az életerejét sebzed minden ellenséges egységnek. Ebből a varázslatból látszik, hogy milyen veszélyes is a vérmágia, és rossz kezek között nagyobb pusztításra képes, mint a feketemágia.
+___VERHOLDNEV___
+
+Vérhold
+___VERHOLDLEIRAS___
+{erosites}
+A Vérhold a démonok valaha volt legerősebb varázslata, amit istenük, Faelneron hagyott rájuk. A Hold vörösre festése, vérrel átitatása elképesztő erőt ad a démoni teremtményeknek, ami a sebzésük $0%-os növekedésében nyilvánul meg a hős minden egyes varázserőpontja után (matematikailag kerekítve). De ez a varázslat olyan erőteljes, hogy elfogyasztja az összes rendelkezésre álló mannát.
+___SZELLOKESNEV___
+
+Széllökés
+___SZELLOKESLEIRAS___
+
+A sárkányok hatalmával olyan széllökést kelt ez a varázslat, ami hátraveti az összes ellenséges egységet a hős varázsereje felének megfelelő mezővel (felfelé kerekítve). (Ha az a mező foglalt, eggyel visszább, stb.)
+___TUZNEV___
+
+Sárkánytűz
+___TUZLEIRAS___
+{sebzes}
+A varázslat hatására olyan erejű tűz söpör végig a csatatéren egy hosszú sávban, mint amilyet maga a Sárkányok Istene, Norticon lehelt volna. Ezzel $0 életerő sebzést okoz minden nem repülő egységnek varázserőpontonként, és lángra lobbantja őket.
+___EGIUVOLTESNEV___
+
+Égi Üvöltés
+___EGIUVOLTESLEIRAS___
+
+Az Égi Üvöltés a sárkányok ősi csatakiáltása, amit az élen repülő Norticon, a zöld pikkelyes óriássárkány, maga az Óriások Istene hallatott a csaták előtt. De csata közben is nagyon hasznos ez a varázsüvöltés: ezt meghallva minden sárkány képest lesz visszatámadni abban a körben, még ha azelőtt meg is tette azt, az ellenség egységei pedig annyira megrettennek, hogy nem támadhatnak vissza ebben a körben (még akkor sem, ha azok grifflovagok).
+___CELPONTNINCS___
+
+Célponttípus: nincs célpont
+___CELPONTEGYSEG___
+
+Célponttípus: egységek (vagy szövetségesek, vagy ellenségek)
+___CELPONTPOZICIO___
+
+Célponttípus: mezők (bizonyos esetekben csak üres mezők)

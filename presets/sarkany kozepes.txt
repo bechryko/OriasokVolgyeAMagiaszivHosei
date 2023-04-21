@@ -1,0 +1,18 @@
+
+sarkany
+2
+vasarol egyseg torpesarkany 5
+vasarol egyseg voros_sarkany 15
+vasarol egyseg pancelozott_sarkany 20
+vasarol egyseg mergezo_sarkany 7
+vasarol varazslat szellokes ok
+vasarol varazslat egi_uvoltes ok
+vasarol tulajdonsag vedekezes 7
+vasarol tulajdonsag varazsero 2
+vasarol tulajdonsag tudas 2
+vasarlas vege
+torpesarkany b7
+voros_sarkany b5
+pancelozott_sarkany b4
+mergezo_sarkany a6
+ok

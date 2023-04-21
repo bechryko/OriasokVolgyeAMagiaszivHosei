@@ -1,0 +1,12 @@
+
+orias
+3
+vasarol egyseg tuzorias 8
+vasarol egyseg gyemantorias 3
+vasarol varazslat az_elet_kertje ok
+vasarol tulajdonsag tamadas 7
+vasarol tulajdonsag tudas 1
+vasarlas vege
+tuzorias b5
+gyemantorias b3
+ok

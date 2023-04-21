@@ -1,0 +1,17 @@
+
+demon
+3
+vasarol egyseg elohalott_ember 13
+vasarol egyseg vermagus 30
+vasarol egyseg oriasdemon 10
+vasarol egyseg demon_szeme_tudos 1
+vasarol varazslat verhold ok
+vasarol tulajdonsag tudas 1
+vasarol tulajdonsag tamadas 3
+vasarol tulajdonsag varazsero 3
+vasarlas vege
+elohalott_ember b4
+vermagus a5
+oriasdemon b5
+demon_szeme_tudos a6
+ok

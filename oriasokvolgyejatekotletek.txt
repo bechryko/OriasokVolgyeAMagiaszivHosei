@@ -1,0 +1,31 @@
+ - támadás tulajdonság 5 pont fölött ne plusz sebzést adjon, hanem hőstámadási kritikus esélyt (5%)
+ - morál növelje a sebességet is
+ - szerencsével varázslatok is tudjanak kritikusak lenni (2 pont szerencsénként 5%)
+!- varázslatok árának és mannaköltségének kiírása vásárláskor
+ - egységek tulajdonságainak bővebb kiíratása (leírásban is) (pl. hőstulajdonsággal összesített kezdeményezés)
+
+ - csata közben hőstulajdonságok kiírása
+ - 3 betűs shortcutok: var -> varazsol, fel -> feltamasztas, stb.
+ - mező megcélzása egységnév alapján
+
+ - bozót képesség annyi bozótot generál random alakban, amennyi a varázserő
+ - démon tudós: kevesebb sebzés, több életerő és kezdeményezés (dmgbuff függjön tudástól)
+ - páncélozott sárkány képessége erősödik védekezésből (védekezés/3.5, felfelé kerekítve)
+
+ - új faj: félemberek
+ - új faj: gaiok
+ - általános képesség az alapegységeknek
+ - embereknek isteni varázslat
+ - +1 varázslat/faj?
+ - +1 egység/faj?
+ - 1-1 fajspecifikus tulajdonság?
+
+ - menü, frissítésenkénti speciális játékmód
+ - többjátékos mód
+ - random névgenerálás
+
+ - RepuloEgyseg ne osztály, hanem interface legyen
+
+BUGOK !!!
+ - egy tulajdonságból akár 10-nél többje is lehet az ellenfélnek?
+ - két enter ne ölje meg a játékot

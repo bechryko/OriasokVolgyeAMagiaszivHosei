@@ -1,0 +1,48 @@
+___TAKTIKAIKEZDET___
+
+El is érkeztünk a taktikai fázishoz! Itt láthatod az ellenség egységeit, varázslatait és tulajdonságait, valamint az ő egységeit a saját térfelén. A feladatod most, hogy elemezd a seregét, és ez alapján kitalálj egy stratégiát, amivel győzelemre vezetheted a saját seregedet! Ezt követően pedig helyezd el a saját egységeidet a pályán!
+___TAKTIKAIPARANCSLISTA___
+
+Elérhető parancsok listája:
+p   - kiírja ezt a listát
+todo / lerak   - kilistázza azon egységeid nevét, amiket még el kell helyezned
+[egysegNev] [mezo]   - elhelyezi a kiválasztott egységet a kiválasztott mezőn, ha már el volt helyezve, akkor odamozgatja
+___NINCSILYENEGYSEG2___
+
+Nincs ilyen lerakandó egységed! A "todo" vagy "lerak" paranccsal írhatod ki ezeket.
+___ROSSZMEZO___
+
+Hibás mezőnév! Csak a sárgával kijelölt mezőkre helyezheted az egységedet!
+___JATEKOS___
+
+A játékos (te):
+___ELLENFEL___
+{ellenfelNev}
+Az ellenfél, a rettegett $0:
+___ELLENFELNEV0___
+
+Ogronn Nelw
+___ELLENFELNEV1___
+
+Xuxanbo Ukci
+___ELLENFELNEV2___
+
+Zustoe Zagsor
+___ELLENFELNEV3___
+
+Bubiah Nikops
+___ELLENFELNEV4___
+
+Viglurd Udfa
+___LERAKANDO___
+
+Egységeid, amiket még el kell helyezned a pályán:
+___TAKTIKAIVEGE___
+
+Elhelyezted az egységeidet, kidolgoztad a terved, nincs más hátra, mint megindítani a seregeinket...! Akarom mondani, a seregeidet, én csak néző vagyok, tényleg, nem értek a középkori fantasy háborúsdihoz.
+___OK___
+
+A csata elkezdéséhez írd be, hogy "ok".
+___NEEEEEEEE___
+
+Ne most gondold meg magad! Ha nem nyered meg a csatát, nem tudunk visszamenni a korunkba! Légy szíves, kapd össze magad, és vágj bele a harcba, nekem gyerekeim vannak otthon, akik várnak rám! Úgy tudják, hogy csak egy zacskó tejért mentem el...

@@ -1,0 +1,12 @@
+
+ember
+3
+vasarol egyseg ijasz 33
+vasarol egyseg grifflovag 17
+vasarol varazslat fekete_tuz ok
+vasarol tulajdonsag tudas 3
+vasarol tulajdonsag szerencse 1
+vasarlas vege
+ijasz b1
+grifflovag b2
+ok

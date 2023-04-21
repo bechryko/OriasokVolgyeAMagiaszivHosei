@@ -1,0 +1,119 @@
+___NINCSEKEZET___
+
+Ékezetek sikeresen kikapcsolva!
+___JATEKCIM___
+
+Óriások Völgye: A Mágiaszív hősei
+___KEZDES___
+{helyszin}
+Köszöntelek, Völgyvándor! A mai napon belépésed nyílt az Óriások Völgyébe, egy elképesztő helyre varázslattal, sárkányokkal, félemberekkel (például sellőkkel), és természetesen óriásokkal. De most sajnos nincs időd körülnézni, mint turista, mert vissza kell ugranunk az időben párszáz évet!
+A Kapuőr, aki tulajdonképpen a Völgy egészének őrzője, odaadta nekem a híres Időmedált, amivel az ember képes lehet utazni az időben. Azt mondta, hogy valaki megpróbálja megváltoztatni a körülbelül háromszáz évvel ezelőtti $0 csata kimenetelét, és nekünk ezt kell megakadályoznunk. Nincs vesztegetni való időnk, ha készen állsz, nyomd meg az Entert! Igen, tudom, hogy nálunk van az Időmedál, de attól még sietnünk kell, mert ki tudja, hogy ha nem most indulunk, akkor jó időbe érünk-e!
+___HELYSZIN0___
+
+fellsvaini
+___HELYSZIN1___
+
+akvamérai
+___HELYSZIN2___
+
+Tenndária erdei
+___HELYSZIN3___
+
+Karniss-tavi
+___HELYSZIN4___
+
+illiumi
+___NYOMJENTERT___
+
+Nyomd meg az Entert a folytatáshoz!
+___PARANCSP___
+
+A "p" parancs beírásával lekérdezheted az elérhető utasítások listáját.
+___PARANCSFONTOS___
+
+FONTOS! MINDIG ÉKEZET NÉLKÜLI PARANCSOKAT ÍRJ BE! (A parancsok kis- és nagybetűre nem érzékenyek.)
+HA EGY PARAMÉTER (pl. egység neve, varázslat neve) TÖBB SZÓBÓL ÁLLNA, ODA SZÓKÖZÖK HELYETT "_" JELEKET ÍRJ!
+(Például: "egyseg vasarol demon_szeme_tudos 4")
+___EGYSEGCIM___
+
+Egységek:
+___VARAZSLATCIM___
+
+Varázslatok:
+___TULAJDONSAGCIM___
+
+Hőstulajdonságok:
+___BAA___
+
+Á
+___SAA___
+
+á
+___BEA___
+
+É
+___SEA___
+
+é
+___BIA___
+
+Í
+___SIA___
+
+í
+___BOA___
+
+Ó
+___SOA___
+
+ó
+___BUA___
+
+Ú
+___SUA___
+
+ú
+___BODD___
+
+Ö
+___SODD___
+
+ö
+___BOAA___
+
+Ő
+___SOAA___
+
+ő
+___BUDD___
+
+Ü
+___SUDD___
+
+ü
+___BUAA___
+
+Ű
+___SUAA___
+
+ű
+___VESZTETT___
+
+Elbuktuk a csatát. Nem szívesen mondom ezt, de... minden a terv szerint alakult.
+Igen, ami azt illeti, nem voltam veled teljesen őszinte. Ezt a csatát a múltban is elvesztettük, de a Kapuőr attól félt, hogy másik időutazó kortársunk megváltoztatja ezt. Ezért adott olyan nevetségesen kevés pénzt a hadsereg összeállítsára, mert tudta, hogy azzal nem nyerhetsz.
+Mindenesetre teljesítettük a feladatunkat, szóval, azt hiszem, minden rendben van. Nekem még van itt pár elintéznivalóm, beszélnem kell az itteni Kapuőrrel, hogy ő is tudja, mi történt. Aztán valószínűleg felkeresem a négy faj istenét, nekik is tudniuk kell a történtekről. Addig is nézz körül a Völgyben, térj be egy emberi városba, úgy hallottam, Gillenturban kiváló bordélyok vannak.
+Köszönöm a segítségedet! Hamarosan visszatérek, és akkor visszaviszlek a saját korodba.
+___NYERT___
+
+Győztünk! Veszteségekkel ugyan, de sikerült megakadályoznunk, hogy megváltoztassák a múltat. Örülök, hogy téged választott a Kapuőr erre a feladatra.
+Nekem még van itt pár elintéznivalóm, el kell fognom az ellenséges sereg vezérét, aztán beszélnem kell az itteni Kapuőrrel, hogy tudja, mi történt. Aztán valószínűleg felkeresem a négy faj istenét, nekik is tudniuk kell a történtekről. Addig is barátkozz a tábornokaiddal, vagy térj be egy emberi városba, úgy hallottam, Gillenturban kiváló bordélyok vannak.
+Még egyszer köszönöm a segítségedet! Hamarosan visszatérek, és akkor visszaviszlek a saját korodba.
+___DONTETLEN___
+
+Ezt nem hiszem el... Hallottál már olyan csatáról, ami döntetlennel végződött? Mert én csak egyetlenegyeről... Arról a csatáról, aminek nem volt szabad hagynunk, hogy megváltozzon a kimenetele! Ez azt jelenti, hogy győztünk!
+Igen, ami azt illeti, nem voltam veled teljesen őszinte. Ez a csata a múltban is döntetlennel zárult, de a Kapuőr attól félt, hogy másik időutazó kortársunk megváltoztatja ezt. Nem tudom, hány éven keresztül végzett intenzív számításokat, hogy kiszámolja, mennyi pénzt kell neked adnia, és egyáltalán kit kell választania, hogy visszaküldjön, de sikerült neki! Döntetlen, ezt még mindig nem hiszem el... Azt hittem, elbukom a küldetésem...
+Mindenesetre teljesítettük a feladatunkat, szóval minden rendben van. Nekem még van itt pár elintéznivalóm, beszélnem kell az itteni Kapuőrrel, hogy ő is tudja, mi történt. Aztán valószínűleg felkeresem a négy faj istenét, nekik is tudniuk kell a történtekről. Addig is nézz körül a Völgyben, térj be egy emberi városba, úgy hallottam, Gillenturban kiváló bordélyok vannak.
+Köszönöm a segítségedet! Hamarosan visszatérek, és akkor visszaviszlek a saját korodba.
+___NYOMJENTERTAVEGEHEZ___
+
+Nyomd meg az entert, hogy elbúcsúzz a Völgytől (esetleg egy kisebb kaland után egy gillenturi bordélyban), és visszatérj a jelenbe!

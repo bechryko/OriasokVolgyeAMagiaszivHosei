@@ -1,0 +1,18 @@
+
+ember
+2
+vasarol egyseg foldmuves 31
+vasarol egyseg ijasz 30
+vasarol egyseg grifflovag 15
+vasarol egyseg bard 30
+vasarol varazslat villamcsapas ok
+vasarol varazslat teleportacio ok
+vasarol tulajdonsag varazsero 5
+vasarol tulajdonsag tudas 5
+vasarol tulajdonsag szerencse 4
+vasarlas vege
+foldmuves b4
+ijasz a5
+grifflovag b5
+bard b6
+ok

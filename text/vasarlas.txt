@@ -1,0 +1,73 @@
+___BOLTKEZDET___
+
+Üdvözöllek a boltban! Itt fogod tudni megvásárolni az egységeidet, varázslataidat és tulajdonságaidat, azaz mindent, ami kelleni fog a csatában.
+A "p" parancsot beírva megkaphatod a jelenleg elérhető összes parancs listáját, amik segítségével fel tudod fedezni a boltot, és megvásárolhatsz mindent - persze, csak amire van pénzed.
+___ARANY___
+{arany}
+A rendelkezésre álló pénzed: $0 arany
+___BOLTPARANCSLISTA___
+
+Elérhető parancsok listája:
+p   - kiírja ezt a listát
+vasarol   - kiírja a vásárolható kategóriák neveit
+vasarol egyseg   - kiírja a vásárolható egységek listáját
+vasarol egyseg [egysegNev]   - kiírja az adott egység részletes leírását
+vasarol egyseg [egysegNev] [darabszam]   - [darabszam] darab vásárlása az adott egységből
+vasarol varazslat   - kiírja a vásárolható varázslatok listáját
+vasarol varazslat [varazslatNev]   - kiírja az adott varázslat részletes leírását
+vasarol varazslat [varazslatNev] ok   - adott varázslat megvásárlása
+vasarol tulajdonsag   - kiírja a vásárolható tulajdonságok listáját, valamint a következő tulajdonság árát
+vasarol tulajdonsag [tulajdonsagNev]   - kiírja az adott tulajdonság részletes leírását
+vasarol tulajdonsag [tulajdonsagNev] [szintSzam]   - [szintSzam] szinttel növeli az adott tulajdonságodat
+vasarlas vege   - befejezed a vásárlást, belekezdesz a csatába
+
+Speciális parancsok:
+ujra   - olyan, mint ha az előzőleg beírt parancsot írnád be újból
+[paraméter]   - olyan, mint ha az előzőleg beírt parancsot írnád be, csak utánaírnád a [paraméter] paramétert (ami nem lehet "p", "vásárol" vagy "újra")
+___BOLTKATEGORIALISTA___
+
+Vásárolható kategóriák (ha ezek neveit ékezet nélkül a "vásárol" parancs után írod, akkor megkapod az egyes kategóriákba tartozó megvásárolható elemeket):
+- egység (a katonáid a csatatéren, ha mind meghal, vesztettél)
+- varázslat (a hősöd varázslatai, amivel segíteni tudod az egységeidet)
+- tulajdonság (a hősöd tulajdonságai, amik bónuszt nyújtanak az egységeidnek és a képességeidnek a harcban)
+___NINCSILYENEGYSEG___
+
+Nem található ilyen egység! A "vásárol egység" paranccsal kilistázhatod a megvásárolható egységek neveit.
+___MEGVASAROLVA___
+{nev} {darabszam}
+Sikeresen megvásároltál $1 darabot ebből a tételből: $0!
+___KEVESPENZ___
+{nev} {ar} {penz}
+Sikertelen vásárlás a következő tételnél: $0. Pénzed: $2 arany. Szükséges pénz: $1 arany.
+___KOVETKEZOTULAJDONSAG___
+{ar}
+A következő vásárlása $0 aranyba fog kerülni.
+___NINCSTERMEK___
+
+Nincs olyan termék ebben a kategóriában, amit meg tudnál vásárolni.
+___NINCSILYENTULAJDONSAG___
+
+Nincs ilyen tulajdonság! A "vásárol tulajdonság" paranccsal kilistázhatod a megvásárolható tulajdonságok neveit.
+___MAX10___
+
+Nem tudod megvenni ezeket a tulajdonságokat. Egy tulajdonságod maximum 10. szintű lehet.
+___VARAZSLATMEGVAN___
+{nev}
+A $0 nevű képességet nem tudod megvenni, mert már megvan.
+___NINCSILYENVARAZSLAT___
+
+Nem található ilyen varázslat! A "vásárol varázslat" paranccsal kilistázhatod a megvásárolható varázslatok neveit.
+___NINCSEGYSEG___
+
+Még nem fejezheted be a vásárlást, mert nincs egyetlen egységed sem! Egységek nélkül neked kellene küzdened, de... Na mindegy, szóval vásárolj még be pár katonát!
+___NEMLEHETEGYSEG___
+
+Hát, van egy rossz hírem... Az volt az összes pénzünk, amit te szépen elköltöttél, úgy, hogy egyetlen katonát sem vettél. Mégis mit gondoltál, hogy majd én harcolok? A francba... mi lesz így a csatával?
+Hé, látod azt a hatalmas sereget? Ott vonulnak végig a főutcán! Lehet, hogy... Lehet, hogy nem is mi voltunk azok, akik megvívták azt a csatát a múltban? Lehet, hogy mindvégig nem rajtunk múlott a múlt megváltoztatásának ténye? Ha ez igaz, akkor remélem, hogy aki vezeti azt a sereget, meg fogja állni a helyét.
+Mondanám, hogy köszönöm a segítségedet, de... nem sokáig jutottunk. Ráadásul egyelőre vissza sem tudunk menni a korunkba az Időmedállal, legalább a csata végét ki kell várnunk. Addig is nézzünk szét, üssük el az időt, mit szólsz?
+___VASAROLT___
+
+Az eddig megvásárolt tételeid:
+___SHOPEND___
+{kimaradoArany}
+Nagyszerű, ahogy látom, befejezted a vásárlást. A megmaradó $0 aranyat elteszem, ki tudja, ha elveszítjük a csatát, még talán kezdhetünk belőle egy új életet itt, a múltban.

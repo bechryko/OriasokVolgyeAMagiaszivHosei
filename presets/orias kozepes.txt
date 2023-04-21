@@ -1,0 +1,18 @@
+
+orias
+2
+vasarol egyseg agyagorias 10
+vasarol egyseg tuzorias 8
+vasarol egyseg gyemantorias 4
+vasarol egyseg faorias 10
+vasarol varazslat tuzlabda ok
+vasarol varazslat bozot ok
+vasarol tulajdonsag vedekezes 4
+vasarol tulajdonsag varazsero 2
+vasarol tulajdonsag tudas 2
+vasarlas vege
+agyagorias b4
+tuzorias b5
+gyemantorias b6
+faorias b7
+ok

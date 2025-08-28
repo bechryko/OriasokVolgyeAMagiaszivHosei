@@ -24,7 +24,7 @@
  - többjátékos mód
  - random névgenerálás
 
- - RepuloEgyseg ne osztály, hanem interface legyen
+ - egysegek.RepuloEgyseg ne osztály, hanem interface legyen
 
 BUGOK !!!
  - egy tulajdonságból akár 10-nél többje is lehet az ellenfélnek?

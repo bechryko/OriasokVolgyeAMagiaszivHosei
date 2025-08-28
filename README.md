@@ -3,19 +3,19 @@ Készítette: Kozma Kristóf
 
 ## A játék futtatása IDEA fejlesztői környezetben:
  1. Nyissuk meg a projektet a File/Open menüponton, majd a mappa tallózásán keresztül.
- 2. Nyissuk meg bal oldalt a Project fület, OriasokVolgyeKotprog/src/Jatek.java fájlra jobb klikk, és Run 'Jatek.main()'.
+ 2. Nyissuk meg bal oldalt a Project fület, OriasokVolgyeKotprog/src/main.Jatek.java fájlra jobb klikk, és Run 'main.Jatek.main()'.
  3. Kezdődhet a játék!
 
 ## A játék futtatása Linuxon:
  1. Nyissuk meg a terminált a forráskódok mappájában (vagy a cd paranccsal menjünk oda)! (OriasokVolgyeKotprog/src)
  2. Fordítsuk le a programot az eggyel kijjebbi mappába: 
-	javac Jatek.java -d ..
+	javac main.Jatek.java -d ..
  3. Lépjünk vissza egy mappát:
 	cd ..
  4. Futtassuk a játékot:
-	java Jatek
+	java main.Jatek
  5. Amennyiben ékezet nélkül szeretnénk a szövegeket kiírni, tegyük hozzá futtatáskor a kapcsolót:
-	java Jatek -nincsEkezet
+	java main.Jatek -nincsEkezet
  6. Kezdődhet a játék! (Érdemes a terminált az alapértelmezettnél nagyobbra állítani, a játék sok szöveggel operál.)
 
 A Linux esetén használatos parancsok Windowson is működnek, habár ott a színezett szövegkiírás nem működik, helyette ANSI kódokat hagy a szövegben. A program futtatása Windows parancssorban nem ajánlott!
